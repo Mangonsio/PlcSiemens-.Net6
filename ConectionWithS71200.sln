@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33829.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConectionWithS71200", "ConectionWithS71200\ConectionWithS71200.csproj", "{36136CC7-710A-47A1-870B-ECE53811F227}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{36136CC7-710A-47A1-870B-ECE53811F227}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{36136CC7-710A-47A1-870B-ECE53811F227}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{36136CC7-710A-47A1-870B-ECE53811F227}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{36136CC7-710A-47A1-870B-ECE53811F227}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B654683A-80F0-4BF0-9252-08167563C218}
+	EndGlobalSection
+EndGlobal
